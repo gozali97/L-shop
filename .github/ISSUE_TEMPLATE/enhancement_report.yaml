@@ -1,0 +1,49 @@
+name: Enhancement Report
+description: File a enhancement report
+title: "[Enhancement]: "
+labels: ["triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this enhancement report!
+  - type: textarea
+    id: what-improve
+    attributes:
+      label: What to improve?
+      description: Also tell us more for the improvement
+    validations:
+      required: true
+  - type: dropdown
+    id: effected
+    attributes:
+      label: What the effect for the improvement?
+      multiple: true
+      options:
+        - Admin Panel
+        - Customer Panel
+        - Systemd
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: What the component effecting?
+      options:
+        - Shipping
+        - Payment
+        - Authentication
+        - Order Management
+        - Business Process
+        - User Experience
+        - Transaction
+        - Product Management
+        - ETC
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: relevant_info
+    attributes:
+      label: Relevant Information
+      description: Please tell us more if there is relevant information
+      # render: shell

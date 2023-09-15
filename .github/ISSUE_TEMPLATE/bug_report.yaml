@@ -1,0 +1,49 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-improve
+    attributes:
+      label: Where the bug are occurred?
+      description: Also tell us more for the improvement
+    validations:
+      required: true
+  - type: dropdown
+    id: effected
+    attributes:
+      label: What's the effect of the bug?
+      multiple: true
+      options:
+        - Admin Panel
+        - Customer Panel
+        - Systemd
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: What's the component?
+      options:
+        - Shipping
+        - Payment
+        - Authentication
+        - Order Management
+        - Business Process
+        - User Experience
+        - Transaction
+        - Product Management
+        - ETC
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: relevant_info
+    attributes:
+      label: Relevant Information
+      description: Please provide the relevant bug information
+      # render: shell

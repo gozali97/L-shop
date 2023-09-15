@@ -1,0 +1,622 @@
+[
+  {
+    "bank_name": "Allo Bank/Bank Harda Internasional",
+    "bank_code": "harda",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "ANZ Indonesia",
+    "bank_code": "anz",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Aceh Syariah",
+    "bank_code": "aceh",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Aladin Syariah",
+    "bank_code": "aladin",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Amar Indonesia",
+    "bank_code": "amar",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Antardaerah",
+    "bank_code": "antardaerah",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Artha Graha Internasional",
+    "bank_code": "artha",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Bengkulu",
+    "bank_code": "bengkulu",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank BPD DIY",
+    "bank_code": "daerah_istimewa",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank BPD DIY Syariah",
+    "bank_code": "daerah_istimewa_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank BTPN Syariah",
+    "bank_code": "btpn_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Bukopin Syariah",
+    "bank_code": "bukopin_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Capital Indonesia",
+    "bank_code": "capital",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Central Asia",
+    "bank_code": "bca",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank China Construction Bank Indonesia",
+    "bank_code": "ccb",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank CNB (Centratama Nasional Bank)",
+    "bank_code": "cnb",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Danamon & Danamon Syariah",
+    "bank_code": "danamon",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Dinar Indonesia",
+    "bank_code": "dinar",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank DKI",
+    "bank_code": "dki",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank DKI Syariah",
+    "bank_code": "dki_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Ganesha",
+    "bank_code": "ganesha",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank IBK Indonesia",
+    "bank_code": "agris",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Ina Perdana",
+    "bank_code": "ina_perdana",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Index Selindo",
+    "bank_code": "index_selindo",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jago Syariah",
+    "bank_code": "artos_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jambi",
+    "bank_code": "jambi",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jambi Syariah",
+    "bank_code": "jambi_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jasa Jakarta",
+    "bank_code": "jasa_jakarta",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jateng",
+    "bank_code": "jawa_tengah",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jateng Syariah",
+    "bank_code": "jawa_tengah_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jatim",
+    "bank_code": "jawa_timur",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Jatim Syariah",
+    "bank_code": "jawa_timur_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kalbar",
+    "bank_code": "kalimantan_barat",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kalbar Syariah",
+    "bank_code": "kalimantan_barat_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kalsel",
+    "bank_code": "kalimantan_selatan",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kalsel Syariah",
+    "bank_code": "kalimantan_selatan_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kaltim Syariah",
+    "bank_code": "kalimantan_timur_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kaltimtara",
+    "bank_code": "kalimantan_timur",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Kalteng",
+    "bank_code": "kalimantan_tengah",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Lampung",
+    "bank_code": "lampung",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Maluku",
+    "bank_code": "maluku",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mandiri",
+    "bank_code": "mandiri",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mantap (Mandiri Taspen)",
+    "bank_code": "mantap",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Maspion Indonesia",
+    "bank_code": "maspion",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mayapada",
+    "bank_code": "mayapada",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mayora Indonesia",
+    "bank_code": "mayora",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mega",
+    "bank_code": "mega",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mega Syariah",
+    "bank_code": "mega_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mestika Dharma",
+    "bank_code": "mestika_dharma",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mizuho Indonesia",
+    "bank_code": "mizuho",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Multi Arta Sentosa (Bank MAS)",
+    "bank_code": "mas",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Mutiara",
+    "bank_code": "mutiara",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Nagari",
+    "bank_code": "sumatera_barat",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Nagari Syariah",
+    "bank_code": "sumatera_barat_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank NTB Syariah",
+    "bank_code": "nusa_tenggara_barat",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank NTT",
+    "bank_code": "nusa_tenggara_timur",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Nusantara Parahyangan",
+    "bank_code": "nusantara_parahyangan",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank OCBC NISP",
+    "bank_code": "ocbc",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank OCBC NISP Syariah",
+    "bank_code": "ocbc_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank of America NA",
+    "bank_code": "america_na",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank of China (Hong Kong) Limited",
+    "bank_code": "boc",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank of India Indonesia",
+    "bank_code": "india",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank of Tokyo Mitsubishi UFJ",
+    "bank_code": "tokyo",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Papua",
+    "bank_code": "papua",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Prima Master",
+    "bank_code": "prima",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Rakyat Indonesia (BRI)",
+    "bank_code": "bri",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Riau Kepri",
+    "bank_code": "riau_dan_kepri",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sahabat Sampoerna",
+    "bank_code": "sahabat_sampoerna",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Shinhan Indonesia",
+    "bank_code": "shinhan",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sinarmas",
+    "bank_code": "sinarmas",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sinarmas Syariah",
+    "bank_code": "sinarmas_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sulselbar",
+    "bank_code": "sulselbar",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sulselbar Syariah",
+    "bank_code": "sulselbar_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sulteng",
+    "bank_code": "sulawesi",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sultra",
+    "bank_code": "sulawesi_tenggara",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank SulutGo",
+    "bank_code": "sulut",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sumsel Babel",
+    "bank_code": "sumsel_dan_babel",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sumsel Babel Syariah",
+    "bank_code": "sumsel_dan_babel_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sumut",
+    "bank_code": "sumut",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Sumut Syariah",
+    "bank_code": "sumut_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Resona Perdania",
+    "bank_code": "resona_perdania",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Victoria International",
+    "bank_code": "victoria_internasional",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Victoria Syariah",
+    "bank_code": "victoria_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Woori Saudara",
+    "bank_code": "woori",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BCA (Bank Central Asia) Syariah)",
+    "bank_code": "bca_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BJB",
+    "bank_code": "bjb",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BJB Syariah",
+    "bank_code": "bjb_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Blu/BCA Digital",
+    "bank_code": "royal",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Bank Negara Indonesia (BNI)",
+    "bank_code": "bni",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BNP Paribas Indonesia",
+    "bank_code": "bnp_paribas",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BPD Bali",
+    "bank_code": "bali",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BPD Banten",
+    "bank_code": "banten",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BPR EKA (Bank Eka)",
+    "bank_code": "eka",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BRI Agroniaga",
+    "bank_code": "agroniaga",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BSI (Bank Syariah Indonesia)",
+    "bank_code": "bsm",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BTN/BTN Syariah",
+    "bank_code": "btn",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BTPN",
+    "bank_code": "tabungan_pensiunan_nasional",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "CIMB Niaga & CIMB Niaga Syariah",
+    "bank_code": "cimb",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Citibank",
+    "bank_code": "citibank",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Commonwealth Bank",
+    "bank_code": "commonwealth",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "BPD Banten",
+    "bank_code": "banten",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "CTBC (Chinatrust) Indonesia",
+    "bank_code": "chinatrust",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "DBS Indonesia",
+    "bank_code": "dbs",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "HSBC Indonesia",
+    "bank_code": "hsbc",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "ICBC Indonesia",
+    "bank_code": "icbc",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Jago/Artos",
+    "bank_code": "artos",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "LINE Bank/KEB Hana",
+    "bank_code": "hana",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Maybank Indonesia",
+    "bank_code": "bii",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Maybank Syariah",
+    "bank_code": "bii_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Motion/MNC Bank",
+    "bank_code": "mnc_internasional",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Muamalat",
+    "bank_code": "muamalat",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Neo Commerce/Yudha Bhakti",
+    "bank_code": "yudha_bakti",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Nobu (Nationalnobu) Bank",
+    "bank_code": "nationalnobu",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Panin Bank",
+    "bank_code": "panin",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Panin Dubai Syariah",
+    "bank_code": "panin_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Permata",
+    "bank_code": "permata",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Permata Syariah",
+    "bank_code": "permata_syr",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "QNB Indonesia",
+    "bank_code": "qnb_kesawan",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Rabobank International Indonesia",
+    "bank_code": "rabobank",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "SBI Indonesia",
+    "bank_code": "sbi_indonesia",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Seabank/Bank BKE",
+    "bank_code": "kesejahteraan_ekonomi",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Standard Chartered Bank",
+    "bank_code": "standard_chartered",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "TMRW/UOB",
+    "bank_code": "uob",
+    "bank_id": ""
+  },
+  {
+    "bank_name": "Wokee/Bukopin",
+    "bank_code": "bukopin",
+    "bank_id": ""
+  }
+]
